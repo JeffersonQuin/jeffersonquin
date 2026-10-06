@@ -1,23 +1,84 @@
-# ¡Hola, soy Jefferson! 👋
+# Hola, soy Jeff 👋
 
-Desarrollador de Software entusiasta por crear proyectos e innovar con código.
+### Full Stack Developer | IA | Automatización
 
----
+Desarrollador enfocado en construir soluciones web y sistemas inteligentes
+orientados a resolver problemas reales.
 
-### 🚀 Sobre mí
-- 🔭 Actualmente trabajando en: **Proyectos personales y aprendizaje continuo**
-- 🌱 Aprendiendo activamente: **Python y Tecnologías Web**
-- 💬 Pregúntame sobre: **Python, Git y desarrollo de software**
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Actualmente estoy trabajando en:
+- 🚀 Desarrollo de aplicaciones Full Stack
+- 🤖 Inteligencia Artificial y sistemas RAG
+- ☁️ Aplicaciones y servicios en la nube
+- 📊 Automatización y gestión de datos
 
 ---
 
-### 📬 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+## 🛠️ Tecnologías
+
+### Frontend
+- Vue.js
+- Nuxt
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
+### Backend
+- Node.js
+- Python
+- FastAPI
+- Supabase
+
+### IA
+- RAG
+- LLMs
+- LangGraph
+- Agentes de IA
+
+### Herramientas
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🏪 Sistema de Gestión para Ferretería
+Sistema web para gestionar productos, clientes, ventas e inventario.
+
+**Tecnologías:** Nuxt · Supabase · PWA
+
+### 🤖 Sistema Inteligente con RAG
+Investigación y desarrollo de un sistema basado en RAG y agentes
+para gestionar procedimientos y tareas.
+
+**Tecnologías:** Python · FastAPI · LangGraph · RAG
+
+### 🌎 Lidera Oruro
+Plataforma web para un encuentro juvenil en Oruro.
+
+**Tecnologías:** Nuxt · Vue · Tailwind CSS
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Inteligencia Artificial
+- RAG y agentes autónomos
+- Arquitecturas Cloud
+- Data Science
+- Desarrollo Full Stack
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: tu-email@example.com
+- 💼 LinkedIn: tu-linkedin
+- 🌐 Portfolio: tu-web
+
+---
+
+⭐ Si alguno de mis proyectos te resulta interesante, ¡no dudes en explorarlo!
