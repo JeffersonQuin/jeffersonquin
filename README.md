@@ -71,19 +71,12 @@
 
 ---
 
-<div align="center">
 
-  ### 📊 Estadísticas de GitHub
-
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
-
-</div>
 
 ## 📫 Contacto
 
-- 📧 Email: tu-email@example.com
-- 💼 LinkedIn: tu-linkedin
+- 📧 Email: quinonezaguirrejeffersongervac@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jefferson-qui%C3%B1onez-aguirre/
 - 🌐 Portfolio: tu-web
 
 ---
