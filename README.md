@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Full+Stack+Developer;AI+%26+RAG+Engineer;Automation+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Full+Stack+Developer;AI+%26+RAG+%26+Engineer;Automation+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
 
   <p><b>Desarrollador enfocado en construir soluciones web y sistemas inteligentes orientados a resolver problemas reales.</b></p>
 
