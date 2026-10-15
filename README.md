@@ -77,7 +77,7 @@
 
 - 📧 Email: quinonezaguirrejeffersongervac@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/jefferson-qui%C3%B1onez-aguirre/
-- 🌐 Portfolio: tu-web
+- 🌐 Portfolio: https://mi-portafolio-six-delta.vercel.app/
 
 ---
 
